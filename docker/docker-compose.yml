@@ -8,9 +8,3 @@ services:
       MONGO_INITDB_DATABASE: banktransaction
     ports:
       - 27017:27017
-
-  adminer:
-    image: adminer:4.7
-    restart: always
-    ports:
-      - 8080:8080
