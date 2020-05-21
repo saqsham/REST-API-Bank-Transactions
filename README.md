@@ -23,5 +23,8 @@ Database : MongoDB <br>
 ODM : mongoose <br> 
 Containerization : Docker <br>
 
-# Abstract
-The objective of this project is to handle the desired Bank transactions and user interference in a Online Banking system.
+# To run this Project
+```
+npm run start-db
+npm run start-dev
+```
