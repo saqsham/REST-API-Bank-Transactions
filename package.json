@@ -9,7 +9,7 @@
     "start-dev": "nodemon --exec npm run start2"
   },
   "dependencies": {
-    "bcrypt": "^4.0.1",
+    "bcrypt": "^5.0.0",
     "connect-mongo": "^3.2.0",
     "debug": "~2.6.9",
     "ejs": "~2.6.1",
